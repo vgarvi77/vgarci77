@@ -3,7 +3,7 @@
         <head>
             <meta charset="utf-8">
         </head>
-  
+    </html>
 
     <body bgcolor="lightblue" text="darkgreen">
         <h1>
@@ -12,7 +12,81 @@
 
         <p>
             vgarci77@depaul.edu <br>
+            555-555-5555
+        </p>
 
+        <hr width="200">
+
+        <h2>
+            Summary
+        </h2>
+
+        <p>
+            My professional experience post-undergrad began at Stanford University where I worked in Clinical Research. After a couple of years I transitioned into tech after taking a role as a UX Research Coordinator. Currently, I lead UX Research operations and dabble in research moderation. I joined the HCI program at DePaul to become a better UX practicioner as I look to transition into a researcher role. My objective with this course is to better understand the fundamentals of web design that allow for UX work to take place.  
+        </p>
+
+        <h2>
+            Education
+        </h2>
+
+        <h3>
+            DePaul University
+        </h3>
+            <!--example of an unordered list-->
+            <ul>
+               <li> Human-Computer Interaction</li>
+                <li>June 2024 to May 2026</li>
+            </ul>
+        
+        <h3>
+            University of California- Davis
+        </h3>
+            <!--example of an unordered list-->
+            <ul>
+                <li>Psychology </li>
+                <li>September 2016 to September 2018 </li>
+            </ul>
+        
+
+        <h2>
+            Work Experience
+        </h2>
+        
+        <h3>
+            UX Research Operations Lead
+        </h3>
+            <!--example of an unordered list-->
+            <ul>
+                <li>May 2023- Present </li>
+                <li>Manage customer research panel </li>
+                <li>Plan and moderate user research sessions </li>
+            </ul>
+        
+
+        <h3>
+            UX Research Operations Coordinator
+        </h3>
+            <!--example of an unordered list-->
+            <ul>
+                <li>May 2021- November 2022 </li>
+                <li>Schedule user research sessions </li>
+                <li>Manage research repository </li>
+            </ul>
+        
+
+        <h2>
+            Computer Skills
+        </h2>
+
+
+            <!--example of an unordered list-->
+            <ul>
+                <li>Working knowledge of HTML </li>
+                <li>Microsoft Suite</li>
+                <li>Google Suite </li>
+                <li>Adobe Photoshop </li>
+                <li>Epic</li>
+                <li>SQL</li>
+            </ul>
         
     </body>
-  </html>
